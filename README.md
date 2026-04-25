@@ -57,9 +57,6 @@ Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e
 📊 **Dashboard de Vendas (Power BI)**  
 → Análise de desempenho de vendas com visualizações interativas  
 
-🛍️ **DevStore (E-commerce)**  
-→ Aplicação web com carrinho e persistência de dados  
-
 ---
 
 ## 🚀 Objetivo
