@@ -57,6 +57,9 @@ Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e
 📊 **Dashboard de Vendas (Power BI)**  
 → Análise de desempenho de vendas com visualizações interativas  
 
+📊 **Projeto Python Shoes - Faculdade**
+→ Criação do meu primeiro site
+
 ---
 
 ## 🚀 Objetivo
