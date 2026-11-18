@@ -96,7 +96,7 @@ align="left"
 <br/>
 <br/>
 
-### 🤖 Estátisticas
+### 📊 Estátisticas
 
 <p>
   <img 
