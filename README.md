@@ -3,33 +3,9 @@
 **'Software Developer'**
 
 Me chamo João Vitor Vieira de Andrade, tenho 23 anos e sou natural de São Paulo-SP.
-Concluí o ensino médio na Escola Estadual Rui Bloem PEI, com curso técnico em Administração e Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE). Sou um verdadeiro apaixonado por tecnologia e sempre estou em constante aprendizado, buscando conhecimento de como funciona por trás de um sistema e também consciliando estudos com criações de projetos. 
+Concluí o ensino médio na Escola Estadual Rui Bloem PEI, com curso técnico em Administração e Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE). Sou um verdadeiro apaixonado por tecnologia e sempre estou em constante aprendizado, buscando conhecimento de como funciona por trás de um sistema e também conciliando  estudos com criações de projetos. 
 
-<a href="https://linkedin.com/in/joão-andrade-648237351/" target="_blank">
-  <img 
-    align="left"
-    alt="LinkedIn"
-    title="LinkedIn"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://jsdelivr.net"
-  />
-</a>
-
-<a href="andradejaovitor309@gmail.com" target="_blank">
-  <img 
-    align="left"
-    alt="Email"
-    title="Email"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://jsdelivr.net"
-  />
-</a>
-
-<br/><br/>
-
-
+[**🔵 LinkedIn**](https://linkedin.com/in/joão-andrade-648237351/) &nbsp;|&nbsp; [**🔴 E-mail**](mailto:andradejaovitor309@gmail.com)
 
 ---
 
