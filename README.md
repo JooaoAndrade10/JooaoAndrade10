@@ -6,14 +6,15 @@ Me chamo João Vitor Vieira de Andrade, tenho 23 anos e sou natural de São Paul
 Concluí o ensino médio na Escola Estadual Rui Bloem PEI, com curso técnico em Administração e Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE). Sou um verdadeiro apaixonado por tecnologia e sempre estou em constante aprendizado, buscando conhecimento de como funciona por trás de um sistema e também consciliando estudos com criações de projetos. 
 
 <p align="left">
-   <a href="https://linkedin.com/in/joão-andrade-648237351/" target="_blank">
-      <img alt="Linkedin" title="Acesse meu LinkedIn" src="./.github/assets/linkedin.svg"/>
-   </a>
-   &nbsp;
-   <a href="mailto:andradejaovitor309@gmail.com" target="_blank">
-      <img alt="Email" title="Envie um e-mail" src="./.github/assets/email.svg"/>
-   </a>
+  <a href="https://linkedin.com/in/joão-andrade-648237351/" target="_blank">
+    <img src="https://jsdelivr.net" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:andradejaovitor309@gmail.com" target="_blank">
+    <img src="https://jsdelivr.net" alt="Email" width="40" height="40" />
+  </a>
 </p>
+
 
 ---
 
