@@ -1,1 +1,13 @@
+<svg xmlns="http://w3.org" width="215" height="28" role="img" aria-label="EMAIL: CONTATO">
+  <title>EMAIL: CONTATO</title>
+  <g shape-rendering="crispEdges">
+    <rect width="115" height="28" fill="#EA4335"/>
+    <rect x="115" width="100" height="28" fill="#C5221F"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <path fill="#fff" transform="translate(10, 6) scale(0.68)" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+    <text transform="scale(.1)" x="710" y="175" textLength="650" fill="#fff" font-weight="bold">EMAIL</text>
+    <text transform="scale(.1)" x="1650" y="175" textLength="750" fill="#fff" font-weight="bold">CONTATO</text>
+  </g>
+</svg>
 
